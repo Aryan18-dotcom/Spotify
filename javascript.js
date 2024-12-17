@@ -14,25 +14,25 @@ var item = [
         image: "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/65/be/e4/65bee4d2-ff3d-b568-d57c-d118a9ccbaed/cover.jpg/1200x1200bb.jpg",
         name: "chandaliyo ugyo re",
         time: "5.67",
-        url: "Chandaliyo-Ugyo-Re.mp3"
+        url: "./Chandaliyo-Ugyo-Re.mp3"
     },
     {
             image: "https://c.saavncdn.com/225/Naadi-Dosh-Gujarati-2022-20220623125847-500x500.jpg",
             name: "Lavva Lavvi",
             time: "8.45",
-            url: "Lavva Lavvi (From Naadi Dosh).mp3"
+            url: "./Lavva Lavvi (From Naadi Dosh).mp3"
         },
         {
             image: "https://c.saavncdn.com/559/Chaal-Jeevie-Laiye-Gujarati-2021-20210108011052-500x500.jpg",
             name: "Chand Ne Kaho",
             time: "8.45",
-            url: "Chand-Ne-Kaho.mp3"
+            url: "./Chand-Ne-Kaho.mp3"
         },
         {
             image: "https://i1.sndcdn.com/artworks-J0AxfEM2aJFk-0-t500x500.jpg",
             name: "Pankhi Re Pankhi Re",
             time: "5.67",
-            url: "pagalworld.com.mx-Pankhi Re.mp3"
+            url: "./pagalworld.com.mx-Pankhi Re.mp3"
         }
 ];
 
